@@ -6,7 +6,7 @@
 
 **Skills**: exploratory data analysis, data wrangling and cleaning, data visualization, descriptive statistics, logistic regression analysis
 
-**Libraries**: `numpy`, `pandas`, `plotly`, 'statsmodels`, `scipy`
+**Libraries**: `numpy`, `pandas`, `plotly`, `statsmodels`, `scipy`
 
 **Language**: RUS
 
