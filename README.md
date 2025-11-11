@@ -17,7 +17,7 @@
 
 ## 💙 Telco Customer Segmentation & Churn Analysis (R)
 
-**Code**: [see the latest version on Colab](https://colab.research.google.com/drive/1GUmLlEgEaNQ-wddKHRw8PROsZ2ws8GBP?usp=sharing), [originally posted on RPubs](https://rpubs.com/ayurevna/925056)
+**Code**: [see the latest version on Colab](https://colab.research.google.com/drive/1GUmLlEgEaNQ-wddKHRw8PROsZ2ws8GBP?usp=sharing); [originally posted on RPubs](https://rpubs.com/ayurevna/925056)
 
 **Skills**: 
   - data wrangling & cleaning
