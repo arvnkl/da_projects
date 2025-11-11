@@ -1,6 +1,6 @@
 # 💚 Portfolio projects
 
-## 💙 Bank Churn Analysis 
+## 💙 Bank Churn Analysis (Python)
 
 **Code**: [Colab](https://colab.research.google.com/github/arvnkl/da_projects/blob/main/bank_churn_analysis.ipynb)
 
@@ -15,9 +15,9 @@
 
 **Language**: RUS
 
-## 💙 Telco Customer Segmentation & Churn Analysis
+## 💙 Telco Customer Segmentation & Churn Analysis (R)
 
-**Code**: [Originally posted on RPubs](https://rpubs.com/ayurevna/925056), [See the latest version on Colab]()
+**Code**: [originally posted on RPubs](https://rpubs.com/ayurevna/925056), [see the latest version on Colab]()
 
 **Skills**: 
   - data wrangling & cleaning
