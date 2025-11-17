@@ -1,6 +1,6 @@
-# 💚 Portfolio projects
+# Portfolio projects
 
-## 💙 Bank Churn Analysis (Python)
+## 🏦 Bank Churn Analysis (Python)
 
 **Code**: [Colab](https://colab.research.google.com/github/arvnkl/da_projects/blob/main/bank_churn_analysis.ipynb)
 
@@ -15,7 +15,7 @@
 
 **Language**: RUS
 
-## 💙 Telco Customer Segmentation & Churn Analysis (R)
+## 🌐 Telco Customer Segmentation & Churn Analysis (R)
 
 **Code**: [see the latest version on Colab](https://colab.research.google.com/drive/1GUmLlEgEaNQ-wddKHRw8PROsZ2ws8GBP?usp=sharing); [originally posted on RPubs](https://rpubs.com/ayurevna/925056)
 
@@ -27,7 +27,7 @@
   - unsupervised learning (k-means clustering)
   - supervised learning (logistic regression)
 
-**Libraries**: 
+**Libraries**: `dplyr`, `ggplot2`, `factoextra`, `MASS`, `caret`.
 
 **Language**: ENG
 
