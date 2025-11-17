@@ -31,15 +31,11 @@
 
 **Language**: ENG
 
-# 💚 Education
+# Certificates
 
+list of names
 
-
-# 💚 Certificates
-
-list of names. certificates provided directly, if asked
-
-# 💚 Links
+# Links
 
 ORCID:
 
