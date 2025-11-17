@@ -24,6 +24,7 @@
   - exploratory data analysis
   - data visualization
   - descriptive statistics
+  - feature engineering
   - unsupervised learning (k-means clustering)
   - logistic regression analysis
 
