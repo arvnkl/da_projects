@@ -2,7 +2,7 @@
 
 ## 🏦 Bank Churn Analysis (Python)
 
-**Code**: [Colab](https://colab.research.google.com/github/arvnkl/da_projects/blob/main/bank_churn_analysis.ipynb)
+**Code**: [see the latest version on Colab](https://colab.research.google.com/github/arvnkl/da_projects/blob/main/bank_churn_analysis.ipynb)
 
 **Skills**: 
   - data wrangling & cleaning
