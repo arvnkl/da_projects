@@ -25,7 +25,7 @@
   - data visualization
   - descriptive statistics
   - unsupervised learning (k-means clustering)
-  - supervised learning (logistic regression)
+  - logistic regression analysis
 
 **Libraries**: `dplyr`, `ggplot2`, `factoextra`, `MASS`, `caret`.
 
