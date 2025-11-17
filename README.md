@@ -35,9 +35,3 @@
 
 list of names
 
-# Links
-
-ORCID:
-
-ResearchGate:
-
