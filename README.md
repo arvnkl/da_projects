@@ -32,9 +32,9 @@
 
 **Language**: RUS
 
-## Python Developer Job Listings Overview Dashboard (Power BI)
+## Python Developer Jobs Overview (Power BI)
 
-**File**: [download from github]()
+**Dashboard**: [download from github]()
 
 **Skills**: 
   - 
