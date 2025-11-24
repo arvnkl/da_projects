@@ -34,7 +34,7 @@
 
 ## Python Developer Jobs Overview (Power BI)
 
-**Dashboard**: [download from github]()
+**Dashboard**: [download from GitHub]()
 
 **Skills**: 
   - 
