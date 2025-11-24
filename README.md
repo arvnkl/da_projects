@@ -32,7 +32,11 @@
 
 **Language**: RUS
 
-# Certificates
+## Python Developer Job Listings Overview Dashboard (Power BI)
 
-list of names
+**File**: [download from github]()
 
+**Skills**: 
+  - 
+
+**Language**: RUS
