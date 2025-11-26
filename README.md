@@ -31,12 +31,3 @@
 **Libraries**: `numpy`, `pandas`, `plotly`, `statsmodels`, `scipy`
 
 **Language**: RUS
-
-## Python Developer Jobs Overview (Power BI)
-
-**Dashboard**: [download from GitHub]()
-
-**Skills**: 
-  - 
-
-**Language**: RUS
