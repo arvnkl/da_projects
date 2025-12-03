@@ -34,6 +34,8 @@
 
 ## 📊 Python Developer Jobs Overview (*Power BI*)
 
+**Preview**: ![dashboard screenshot](https://github.com/arvnkl/da_projects/blob/main/python_developer_jobs_overview.png?raw=true)
+
 **Dashboard**: [download from GitHub](https://github.com/arvnkl/da_projects/blob/main/python_developer_jobs_overview.pbix)
 
 **Language**: RUS
