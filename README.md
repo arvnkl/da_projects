@@ -31,3 +31,9 @@
 **Libraries**: `dplyr`, `ggplot2`, `factoextra`, `MASS`, `caret`.
 
 **Language**: ENG
+
+## Python Developer Jobs Overview (Power BI)
+
+**Dashboard**: [download from GitHub]()
+
+**Language**: RUS
