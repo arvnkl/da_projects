@@ -5,11 +5,10 @@
 **Code**: [see the latest version on Colab](https://colab.research.google.com/github/arvnkl/da_projects/blob/main/bank_churn_analysis.ipynb)
 
 **Skills**: 
-  - data wrangling & cleaning
-  - exploratory data analysis
-  - data visualization
-  - descriptive statistics
-  - logistic regression analysis
+  - Data Wrangling & Cleaning
+  - Exploratory Data Analysis
+  - Data Visualization
+  - Statistical Analysis (including Logistic Regression)
 
 **Libraries**: `numpy`, `pandas`, `plotly`, `statsmodels`, `scipy`
 
@@ -20,13 +19,12 @@
 **Code**: [see the latest version on Colab](https://colab.research.google.com/drive/1GUmLlEgEaNQ-wddKHRw8PROsZ2ws8GBP?usp=sharing); [originally posted on RPubs](https://rpubs.com/ayurevna/925056)
 
 **Skills**: 
-  - data wrangling & cleaning
-  - exploratory data analysis
-  - data visualization
-  - descriptive statistics
-  - feature engineering
-  - unsupervised learning (k-means clustering)
-  - logistic regression analysis
+  - Data Wrangling & Cleaning
+  - Exploratory Data Analysis
+  - Data Visualization
+  - Feature Engineering
+  - Unsupervised Learning (K-means Clustering)
+  - Statistical Analysis (including Logistic Regression)
 
 **Libraries**: `dplyr`, `ggplot2`, `factoextra`, `MASS`, `caret`.
 
